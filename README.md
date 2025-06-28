@@ -1,2 +1,1 @@
-# 100-Days-of-Python-Automated-Stock-Tracker-App
-This is the Automated Stock Tracker App I developed as part of "100 Days of Python" with Dr. Angela Yu.
+This Python script displays the current day's and yesterday's stock information for a select number of stocks. This script also presents the user with news articles pertaining to the stock companies, so the user can determine if current events had an influence on a stock's value.
